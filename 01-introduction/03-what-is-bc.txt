@@ -1,0 +1,38 @@
+what is Blockchain?
+in simple words a Blockchain is an immutable distributed ladger.
+
+what is a ledger?
+A Ledger is a collection of financial accounts and transactions.
+it is simply a record of transactions that people have made. 
+its is a very straight forward document like
+
+usman pays 30$ to ehsan
+farooq pays 50$ to usman
+
+and immutable means that the ladger cannot be changed Ever!
+once a transaction is recorded it can never be undone. no ever can change or alter the transaction.
+no one can change the money that has transferred
+
+the transaction is set into the stone
+
+what does "Distributed" means?
+Distributed: not controlled by a single entity.
+
+Blockchain technology is not centralized like facebook or google etc. BC is a distributed network. 
+this means that any given  blockchain network is not controlled by a single entity but instead it is run by normal everyday people. Blockchain such as bitcoin are supported and hosted by thousands of every day peopleacross the whole world. so all our data or ledger in this case is not at mercy of a single company. this is a great benefit of blockchain technology because by being distributed we donot have to trust with a single company with our data. 
+
+instead our data is persisted by the entire network of thousands of different people who are alll acting independently. 
+
+ideally each person who contributes to the blockchain network is called a node, and each node has exactly same copy of the ledger. 
+so the ledger data is hosted and synchronized across the entire network. 
+
+this is what blockchain is
+it is immutable, distributed ledger which means it is a ledger in which the transactions can not be changed. and blockchain itself is distributed and ran by thousands of independent people or nodes.
+
+some industries that could be transformed by blockchain technologies are
+
+1- Financial services industries
+2- Health care industries
+3- Credit industries
+4- governments
+5- Energy Indusstries
