@@ -1,0 +1,34 @@
+// i am starting a lecture related to blockchain learning by building my own blockchain using javascript
+// in this course we'll create a fully functional blockchain from scratch using the javascript programming language. 
+
+// we are going to be building out a blockchain that has all the same functionality that you'll find in a production level blockchain in real life like Bitcoin and ethreum.
+
+our blockchain will be able
+1- to perform a proof of work to secure the blockchain
+2- Create new Blocks through a mining Process
+3- Create new, immutable transactions
+4- Validate the blockchain and all block data.
+5- Retreive address/transaction/block data
+    .... and many other important features as well.
+
+in this course we'll also build out a decentralized blockchain network that will host an entire blockchain.
+
+the first step in creating our blockchain network is that 
+1- we'll build out an API or a server to interact with our blockchain from the internet.
+2- from where we'll upgrade our API to a decentralized blockchain network, to host our blockchain
+    (we'll upgrade our API so that it consists of multiple different nodes allowing us to create a decentralized network)
+3- we'll also create a consensus algorithm to make sure that our data to the entire decentralized network is legitimate and always synchronized
+4- and finally we'll create a block explorer web page so that we can explore the data by using a graphical interface. 
+
+the best thing is that all of this will be done on my own computer or laptop. 
+
+Prerequisites
+1- computer
+2- Basic knowledge of JS programming
+
+////////////////////////////////////////////////
+Purpose of this Course?
+to help you understand how blockchain technology actually works by building you own blockchain and decentralized network. 
+
+////// WHat you will accomplish?
+by the end of this course you will have a full fledge blockchain prototype, that is hosted on the decentralized blockchain network. and you will have gain a great deal of knowledge and understanding is that how blockchain is actually works under the hood.
